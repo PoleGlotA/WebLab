@@ -1,0 +1,15 @@
+Прізвище: Vigurskiy
+Iм'я: Artem
+Вiк: 18
+E-mail: artem.vigur1@gmail.com
+
+Прізвище: Roman
+Iм'я: Halievski
+Вiк: 21
+E-mail: 512@512
+
+Прізвище: gsdgds
+Iм'я: gdgad
+Вiк: 15
+E-mail: idp0103@tec.ukr.education
+
